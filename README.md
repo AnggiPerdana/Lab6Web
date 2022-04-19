@@ -3,8 +3,8 @@
 ## Membuat layout web sederhana menggunakan css frameword (Twitter Bootstrap)
 
 Pertama kita unduh terlebih dahulu bootstrapnya melalui link berikut `http://getbootstrap.com/`, jika sudah kemudian extrat file nya.
-Setelah itu kita buat buat file html baru dengan nama `index.html`, kemudian masukan kodingan berikut.
-disini saya menggunakan bootstrap pada saat membuat navbar.
+Setelah itu kita buat file html baru dengan nama `index.html`, kemudian masukan kodingan berikut.
+Disini saya menggunakan bootstrap pada saat membuat navbar.
 
 ![Gambar1](screenshot/ss1.png)
 
@@ -16,7 +16,7 @@ dan membuat isi dari `<body>` menggunkan bootstrap `jumbotron`.
 
 ![Gambar3](screenshot/ss3.png)
 
-tambahkan deklarasikan dengan CSS.
+Deklarasikan dengan CSS.
 
 ![Gambar4](screenshot/ss3a.png)
 
@@ -28,7 +28,7 @@ Kemudian kita bisa membuat artikel, dengan menggunakan kode seperti berikut ini.
 
 ![Gambar6](screenshot/ss5.png)
 
-deklarasikan dengan CSS.
+Deklarasikan dengan CSS.
 
 ![Gambar7](screenshot/ss6.png)
 
@@ -36,7 +36,7 @@ deklarasikan dengan CSS.
 
 ![Gambar9](screenshot/ss8.png)
 
-tampilan websitenya akan seperti berikut.
+Tampilan pada website akan seperti berikut.
 
 ![Gambar10](screenshot/ss9.png)
 
@@ -44,17 +44,18 @@ Kemudian kita akan membuat Widget Sidebar, disini saya menggunkan bootstrap `lis
 
 ![Gambar11](screenshot/ss10.png)
 
-deklarasikan dengan CSS.
+Deklarasikan dengan CSS.
 
 ![Gambar12](screenshot/ss11.png)
 
-tampilan websitenya seperti ini
+Tampilan websitenya seperti ini.
 
 ![Gambar13](screenshot/ss12a.png)
 
 
-### Tampilan Keseluruhan Website
+
+### Berikut ini tampilan keseluruhan Website
 
 ![Gambar14](screenshot/ss12.png)
 
-Demikian sedikit contoh penggunaan bootstrap.
+Demikian sedikit contoh tentang penggunaan bootstrap.
