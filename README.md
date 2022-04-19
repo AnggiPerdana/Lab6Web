@@ -1,6 +1,6 @@
 # Lab6Web
 
-## Membuat layout web sederhana menggunakan css frameword (Twitter Bootstrap)
+## Membuat layout web sederhana menggunakan css framework (Twitter Bootstrap)
 
 Pertama kita unduh terlebih dahulu bootstrapnya melalui link berikut `http://getbootstrap.com/`, jika sudah kemudian extrat file nya.
 Setelah itu kita buat file html baru dengan nama `index.html`, kemudian masukan kodingan berikut.
